@@ -1,0 +1,29 @@
+<svg width="23" height="26" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="28" width="25" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.003576389641388525,0,0,0.003576389641388525,0,0) ">Created by potrace 1.13, written by Peter Selinger 2001-2015</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <g stroke="null" id="svg_155">
+   <path fill="#ffffff" stroke="null" id="svg_154" d="m20.467825,20.194085l-5.918765,-5.999922c0.918468,-1.203681 1.415307,-2.67536 1.415307,-4.22328c0,-1.852883 -0.713351,-3.59025 -2.003309,-4.900206c-1.289958,-1.309956 -3.008383,-2.030778 -4.833924,-2.030778s-3.543966,0.723133 -4.833924,2.030778c-1.292237,1.307646 -2.003309,3.047323 -2.003309,4.900206c0,1.850573 0.713351,3.59256 2.003309,4.900206c1.289958,1.309956 3.006104,2.030778 4.833924,2.030778c1.526982,0 2.976476,-0.503652 4.163875,-1.432403l5.918765,5.997612a0.186884,0.189447 0 0 0 0.264373,0l0.993678,-1.004993a0.186884,0.189447 0 0 0 0,-0.267998zm-7.730632,-6.563642c-0.966329,0.977269 -2.247171,1.515575 -3.610059,1.515575s-2.64373,-0.538306 -3.610059,-1.515575c-0.96405,-0.979579 -1.495075,-2.277984 -1.495075,-3.65956s0.531025,-2.682291 1.495075,-3.65956c0.966329,-0.977269 2.247171,-1.515575 3.610059,-1.515575s2.646009,0.535996 3.610059,1.515575s1.495075,2.277984 1.495075,3.65956s-0.531025,2.682291 -1.495075,3.65956z"/>
+  </g>
+  <path id="svg_156" d="m2.21875,5.75l5.84375,6.8125" opacity="0.5" fill-opacity="0" stroke-width="null" fill="#000000"/>
+  <path id="svg_157" d="m1.46875,9.5625" opacity="0.5" fill-opacity="0" stroke-width="null" fill="#000000"/>
+ </g>
+</svg>
