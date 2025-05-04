@@ -4290,4 +4290,6 @@ body {
    transform: translate(-50%, -50%);
    z-index: 1;
 }
-
+@media (max-width: 600px){
+   .h_filter_btn { margin-top: 12px; }
+}
