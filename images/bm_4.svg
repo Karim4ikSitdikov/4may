@@ -1,0 +1,32 @@
+<svg width="25" height="22" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="24" width="27" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.003576389641388525,0,0,0.003576389641388525,0,0) ">Created by potrace 1.13, written by Peter Selinger 2001-2015</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <path id="svg_157" d="m1.46875,9.5625" opacity="0.5" fill-opacity="0" stroke-width="null" fill="#000000"/>
+  <style transform="matrix(0.011377778328789612,0,0,0.011377778328789612,0,0) " type="text/css">.st0{fill:#FFFFFF;}</style>
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <g stroke="null" id="svg_235">
+   <g stroke="null" transform="matrix(1.3758798376084966,0,0,1.3433835846795703,11.942104004162742,8.63736671380743) " id="svg_232">
+    <path stroke="null" id="svg_234" d="m0.382788,9.755399a0.977,0.977 0 0 1 -0.7,-0.288l-6.67,-6.675a5.343,5.343 0 0 1 1.423,-8.567a5.266,5.266 0 0 1 5.947,0.858a5.272,5.272 0 0 1 5.947,-0.858a5.343,5.343 0 0 1 1.423,8.567l-6.676,6.675a0.977,0.977 0 0 1 -0.694,0.288zm-3.645,-15.08a4.015,4.015 0 0 0 -1.844,0.437a4.4,4.4 0 0 0 -2.389,3.243a4.345,4.345 0 0 0 1.215,3.73l6.675,6.675l6.651,-6.675a4.345,4.345 0 0 0 1.215,-3.73a4.4,4.4 0 0 0 -2.389,-3.243a4.338,4.338 0 0 0 -4.968,0.852l0,0a0.744,0.744 0 0 1 -1.042,0a4.474,4.474 0 0 0 -3.124,-1.289z"/>
+   </g>
+  </g>
+ </g>
+</svg>

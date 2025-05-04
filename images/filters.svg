@@ -1,0 +1,32 @@
+<svg width="27" height="20" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="22" width="29" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.21006945355070972,0,0,0.21006945355070972,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.003576389641388525,0,0,0.003576389641388525,0,0) ">Created by potrace 1.13, written by Peter Selinger 2001-2015</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <metadata transform="matrix(0.25,0,0,0.25,0,0) ">Svg Vector Icons : http://www.onlinewebfonts.com/icon</metadata>
+  <path id="svg_157" d="m1.46875,9.5625" opacity="0.5" fill-opacity="0" stroke-width="null" fill="#000000"/>
+  <style transform="matrix(0.011377778328789612,0,0,0.011377778328789612,0,0) " type="text/css">.st0{fill:#FFFFFF;}</style>
+  <g stroke="null" transform="rotate(-90.30026245117188 13.624999999999998,9.968749999999998) " id="svg_191">
+   <g id="svg_188" fill="#000000" transform="matrix(0.002736765353817014,0,0,-0.002572382451090159,-17.804688337154346,14.637966600690973) ">
+    <path stroke="null" id="svg_189" d="m9731.747452,6362.5364c-67,-26 -138,-89 -172,-153c-27,-50 -27,-55 -32,-280l-5,-229l-85,-23c-537,-143 -953,-529 -1133,-1049c-65,-188 -82,-303 -81,-535c0,-172 4,-221 22,-308c94,-436 333,-795 687,-1034c160,-108 290,-165 565,-246l25,-7l5,-2515l5,-2515l27,-51c32,-60 93,-118 157,-148c65,-30 197,-30 262,0c64,30 125,88 157,148l27,51l5,2514l5,2515l110,31c603,174 1034,637 1166,1255c20,90 23,135 23,315c0,181 -3,224 -22,315c-137,630 -581,1101 -1192,1264l-85,23l-5,229c-5,225 -5,230 -32,280c-75,143 -254,211 -404,153zm348,-1308c177,-46 325,-129 453,-255c131,-129 219,-279 266,-456c33,-121 33,-367 1,-484c-97,-351 -350,-607 -698,-708c-69,-20 -101,-23 -254,-23c-153,0 -185,3 -254,23c-236,68 -430,210 -565,413c-184,275 -212,644 -71,945c138,296 406,503 724,559c108,19 296,13 398,-14z"/>
+    <path stroke="null" id="svg_190" d="m13007.747452,6367.5364c-64,-23 -126,-71 -161,-123c-63,-96 -59,97 -59,-2631l0,-2487l-72,-18c-40,-9 -116,-33 -168,-52c-823,-305 -1253,-1199 -984,-2042c41,-128 155,-345 242,-461c91,-121 242,-269 359,-353c151,-108 355,-203 532,-248l90,-23l3,-221c3,-213 4,-222 29,-275c32,-66 86,-123 154,-158c43,-23 62,-27 140,-27c75,0 98,4 140,25c64,31 124,91 155,155c24,48 25,59 28,276l3,225l89,22c364,89 720,339 935,657c446,662 355,1539 -216,2091c-135,130 -276,227 -451,309c-86,40 -248,95 -325,110l-33,7l-2,2511l-3,2512l-25,50c-31,64 -92,125 -155,155c-64,31 -180,37 -245,14zm364,-5894c317,-85 579,-337 679,-656c131,-414 -31,-865 -396,-1108c-561,-373 -1315,-81 -1493,579c-15,57 -19,103 -18,245c0,161 3,182 27,263c101,330 350,578 674,672c158,46 366,48 527,5z"/>
+   </g>
+  </g>
+ </g>
+</svg>
